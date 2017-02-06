@@ -1,0 +1,18 @@
+header{
+	background: url(../img/header-background.png) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+	height: 725px;
+}
+.shadowtext {
+    text-shadow: 0 1px 1px black;
+}
+@font-face {
+    font-family: CocoGothic Light;
+    src: url(Coco-Gothic/Coco Gothic Light-trial.ttf);
+}
+.navbar-brand {
+    font-family: CocoGothic Light;
+}
